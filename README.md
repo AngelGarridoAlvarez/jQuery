@@ -6,7 +6,7 @@ Todo el contenido ha sido modificado para facilitar mi comprensión de la materi
 
 <u>**jQuery**</u> es una librería para JavaScript que permite hacer animaciones, peticiones AJAX, etc. Es importante sobre todo de cara al código legado ya que es una de las librerías más populares que hay.
 
-##Indice
+## Indice
 
 [1. Primeros Pasos - Instalar jQuery](1-primerosPasos/primerosPasos.md)
 [- archivos](1-primerosPasos)
