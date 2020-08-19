@@ -71,6 +71,6 @@ O podemos abrir el [enlace del script](https://code.jquery.com/jquery-3.5.1.js) 
 ## 2. Versiones de jQuery
 
 * La versión 1 es muy pesada porque cada navegador antiguo funcionaba de una manera distinta
-* versión 2 eliminó compatibilidades con versiones antiguas de explorer
-* versión 3: soporte a promesas y más compatible con HTML5
+* Versión 2 eliminó compatibilidades con versiones antiguas de explorer
+* Versión 3: soporte a promesas y más compatible con HTML5
 * Todas las versiones de jQuery funcionan igual y el código que vamos a ver funciona en todas las versiones
