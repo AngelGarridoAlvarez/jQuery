@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Selectores</title>
+    <style>
+        .cebra{
+            border: 5px dashed darkorchid;
+        }
+        .grande{
+        font-size: 40px
+        }
+        .margen-superior{
+            display: block;
+            margin-top: 30px;
+        }
+        .highlight{
+            border-bottom: 2px solid darkgoldenrod;
+        }
+    </style>
+
+</head>
+<body>
+<h1>Selectores</h1>
+<p id = "naranja" class = "bordeRojo">Me han puesto el borde rojo con jQuery</p>
+<p id = "amarillo" class = "bordeRojo">Me han puesto el borde rojo con jQuery</p>
+<p id = "azul" class = "sinBorde">Dame click</p>
+<p class = "sinBorde">Dame click</p>
+<span class = "cebra">Dame doble click</span>
+<p></p>
+<span class = "cebra">Dame doble click</span>
+
+<ol>
+    <li><a href="https://es.wikipedia.org/wiki/Jerez_de_la_Frontera" title="sur">Paraiso1</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Ar%C3%A9valo" title="norte">Paraiso2</a></li>
+    <li><a href="https://www.buitrago.org/" title="norte">Paraiso3</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Zahara_de_los_Atunes" title="sur">Paraiso4</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Lovaina" title="norte">Paraiso5</a></li>
+</ol>
+
+<div id="caja">
+    <p>Hello, I'm a box</p>
+    <ul>
+        <li>Elemento1</li>
+        <li class="highlight">Elemento1</li>
+    </ul>
+    <span class="highlight">Soy un span como una casa</span>
+</div>
+
+<script src="jquery-3.5.1.js"></script>
+<!--compruebo que se ha cargado correctamente jQuery en la consola de mi navegador con el siguiente script-->
+<script src="selectores.js">
+
+</script>
+</body>
+</html>
