@@ -1,4 +1,4 @@
-#Primeros pasos jQuery
+# Primeros pasos jQuery
  * jQuery es una librería que simplifica lo que hacemos en JS, y que proporciona plugins
  * muy usado en proyecto monolíticos en los que se une front y back
  * aplicaciones SPA (frontend y backend separado) se usa Angular y React pero no jQuery
