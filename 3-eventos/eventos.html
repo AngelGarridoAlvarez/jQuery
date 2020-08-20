@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Eventos</title>
+
+    <script type="text/javascript" src="jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="eventos.js"></script>
+    <style>
+        #caja{
+            width: 250px;
+            height: 250px;
+            border: 2px solid black;
+            background: yellow;
+            /*transition: 900ms all;*/
+        }
+        /*#caja:hover{
+            transition: 900ms all; //si pongo aquí la transición solo se pone suave al entrar, la pongo en #caja para que sea suave al entrar y al salir
+            background: red;
+            cursor: pointer;
+        }*/
+
+        input{
+            padding: 10px;
+            width: 300px;
+            font-size: 20px;
+        }
+
+        #datos{
+            border: 4px dashed darkmagenta;
+            padding: 10px;
+            width: 250px;
+            height: 50px;
+            margin-top: 30px;
+            display: none;/* así lo acultamos hasta que se ejecute el blur*/
+        }
+
+        #coordenadas{
+            border: 4px dashed darkmagenta;
+            padding: 10px;
+            width: 250px;
+            height: 50px;
+            margin-top: 30px;
+            display: block;
+        }
+
+        #followMe{
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            display: block;
+            background: yellow;
+            opacity: 0.5;
+            border-radius: 999px;
+            border: 1px solid purple;
+
+        }
+
+    </style>
+</head>
+<body>
+<h1>Eventos</h1>
+
+<div id="caja">
+    soy una caja
+</div>
+
+<br>
+
+<form>
+    <input type="text" id="nombre">
+</form>
+
+
+<div id="datos"></div>
+
+<div id="coordenadas"></div>
+
+<div id="followMe">follow me</div>
+
+
+</body>
+</html>

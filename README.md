@@ -14,7 +14,8 @@ Todo el contenido ha sido modificado para facilitar mi comprensión de la materi
 [2. Selectores](2-selectores/selectores.md)
 [- archivos](2-selectores)
 
-[3. Eventos](3-eventos)
+[3. Eventos](3-eventos/eventos.md)
+[- archivos](3-eventos)
 
 [4. Efectos y animaciones](4-efectosAnimaciones)
 
