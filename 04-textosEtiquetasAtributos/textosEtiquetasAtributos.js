@@ -4,7 +4,7 @@ $(document).ready(function () {
     //## 1. Textos
     //### 1.1 Iterar etiquetas html:
     //* Vamos a meter en texto que hay dentro de nuestro enlace HTML en la etiqueta para que se muestre por pantalla
-    //* Para eso vamos a iterar las etiquetas 'a' que hay dentro de nuestro documento textosEtiquetasAtributos.html
+    //* Para eso vamos a iterar las etiquetas 'a' que hay dentro de nuestro documento efectosAnimaciones.html
 
     console.log($('a').length)//me dice el número de elementos a que tengo
 

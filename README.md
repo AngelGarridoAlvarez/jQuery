@@ -8,31 +8,34 @@ Todo el contenido ha sido modificado para facilitar mi comprensión de la materi
 
 ## Indice
 
-[1. Primeros Pasos - Instalar jQuery](1-primerosPasos/primerosPasos.md)
-[- archivos](1-primerosPasos)
+[1. Primeros Pasos - Instalar jQuery](01-primerosPasos/primerosPasos.md)
+[- archivos](01-primerosPasos)
 
-[2. Selectores](2-selectores/selectores.md)
-[- archivos](2-selectores)
+[2. Selectores](02-selectores/selectores.md)
+[- archivos](02-selectores)
 
-[3. Eventos](3-eventos/eventos.md)
-[- archivos](3-eventos)
+[3. Eventos](03-eventos/eventos.md)
+[- archivos](03-eventos)
 
-[4. Añadir/Modificar textos, etiquetas y atributos](4-textosEtiquetasAtributos/textosEtiquetasAtributos.md)
-[- archivos](4-textosEtiquetasAtributos)
+[4. Añadir/Modificar textos, etiquetas y atributos](04-textosEtiquetasAtributos/textosEtiquetasAtributos.md)
+[- archivos](04-textosEtiquetasAtributos)
 
-[5. AJAX](5-peticionesAjax)
-[- archivos](5-peticionesAjax)
+[5. Efectos, animaciones y callbacks en efectos](05-efectosAnimaciones)
+[- archivos](05-efectosAnimaciones)
 
-[6. jQuery UI](6-jQueryUI)
-[- archivos](6-jQueryUI)
+[6. AJAX](06-peticionesAjax)
+[- archivos](06-peticionesAjax)
 
-[7. Interacciones](7-Interacciones)
-[- archivos](7-Interacciones)
+[7. jQuery UI](07-jQueryUI)
+[- archivos](07-jQueryUI)
 
-[8. Animaciones](8-animacionesEfectos)
-[- archivos](8-animacionesEfectos)
+[8. Interacciones](08-Interacciones)
+[- archivos](08-Interacciones)
 
-[9. Plugins y wirgets](9-PluginsWidgets)
-[- archivos](9-PluginsWidgets)
+[9. Animaciones](09-animacionesEfectos)
+[- archivos](09-animacionesEfectos)
+
+[10. Plugins y wirgets](10-PluginsWidgets)
+[- archivos](10-PluginsWidgets)
 
 
