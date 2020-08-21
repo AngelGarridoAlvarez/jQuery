@@ -2,7 +2,7 @@
 # Peticiones Ajax con jQuery
 * Ajax permite hacer peticiones asíncronas a un servidor y recoger los resultados sin necesidad de que la página actualice.
 * Actualiza un trozo de la pantalla cargando una información
-* Usaremos [reqres.in](reqres.in)
+* Usaremos [reqres.in](https://reqres.in/)
 
 Suponemos el siguiente código html 
 ```html
