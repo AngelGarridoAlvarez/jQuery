@@ -20,10 +20,10 @@ Todo el contenido ha sido modificado para facilitar mi comprensión de la materi
 [4. Añadir/Modificar textos, etiquetas y atributos](04-textosEtiquetasAtributos/textosEtiquetasAtributos.md)
 [- archivos](04-textosEtiquetasAtributos)
 
-[5. Efectos, animaciones y callbacks en efectos](05-efectosAnimaciones)
+[5. Efectos, animaciones y callbacks en efectos](05-efectosAnimaciones/efectosAnimaciones.md)
 [- archivos](05-efectosAnimaciones)
 
-[6. AJAX](06-peticionesAjax)
+[6. AJAX](06-peticionesAjax/ajax.md)
 [- archivos](06-peticionesAjax)
 
 [7. jQuery UI](07-jQueryUI)
