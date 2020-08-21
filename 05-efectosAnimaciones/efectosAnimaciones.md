@@ -1,5 +1,92 @@
 # Efectos - Animaciones
 
+Suponemos el siguiente código html 
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Efectos - Animaciones</title>
+    <style>
+        .caja{
+            width: 500px;
+            height: 200px;
+            border: 5px dashed black;
+            background: #ccc;
+            text-align: center;
+            line-height: 200px;
+            color: black;
+            font-size: 19px;
+            font-family: "DejaVu Sans Mono";
+            margin-top: 15px;
+        }
+
+        hr{
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+    </style>
+
+    <script type="text/javascript" src="jquery-3.5.1.js"></script>
+    <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="efectosAnimaciones.js"></script>
+</head>
+<body>
+
+<h1>Efectos - Animaciones</h1>
+<button id="mostrar">
+    Mostrar
+</button>
+<button id="ocultar">
+    Ocultar
+</button>
+
+<div id="caja" class="caja">
+    1. Métodos .hide y .show
+</div>
+
+<hr>
+
+<button id="mostrar2">
+    Mostrar
+</button>
+<button id="ocultar2">
+    Ocultar
+</button>
+
+<div id="caja2" class="caja">
+    2. Métodos .fadeIn y .fadeOut
+</div>
+
+<hr>
+
+<button id="toggle">
+    Toggle
+</button>
+
+
+<div id="caja3" class="caja">
+    2. toggle
+</div>
+
+<hr>
+
+<button id="animar">
+    Animar
+</button>
+
+<button id="animar2">
+    Animar2
+</button>
+
+<div id="caja4" class="caja">
+    Animar
+</div>
+
+</body>
+</html>
+```
+
 ## 1. efecto ampliar, reducir
 
 * .hide() 

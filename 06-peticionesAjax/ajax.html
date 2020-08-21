@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ajax</title>
+    <style>
+        .datos{
+            border: 2px solid green;
+            width: 250px;
+            height: 250px;
+            overflow: scroll;
+        }
+
+        hr{
+           margin-bottom: 30px;
+            margin-top: 30px;
+        }
+    </style>
+
+    <script type="text/javascript" src="jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="ajax.js"></script>
+</head>
+<body>
+<h1>AJAX - Peticiones asíncronas en jQuery</h1>
+
+<div id="datos" class="datos"></div>
+<hr>
+<div id="datos2" class="datos"></div>
+<hr>
+<form action="https://reqres.in/api/users" method="post">
+    Nombre:<input type="text" name="name"/>
+    Web:<input type="text" name="web"/>
+    <input type ="submit" value="registrar" />
+
+
+</form>
+</body>
+</html>
