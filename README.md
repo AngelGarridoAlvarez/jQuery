@@ -17,16 +17,22 @@ Todo el contenido ha sido modificado para facilitar mi comprensión de la materi
 [3. Eventos](3-eventos/eventos.md)
 [- archivos](3-eventos)
 
-[4. Efectos y animaciones](4-efectosAnimaciones)
+[4. Añadir/Modificar textos, etiquetas y atributos](4-textosEtiquetasAtributos/textosEtiquetasAtributos.md)
+[- archivos](4-textosEtiquetasAtributos)
 
 [5. AJAX](5-peticionesAjax)
+[- archivos](5-peticionesAjax)
 
 [6. jQuery UI](6-jQueryUI)
+[- archivos](6-jQueryUI)
 
 [7. Interacciones](7-Interacciones)
+[- archivos](7-Interacciones)
 
 [8. Animaciones](8-animacionesEfectos)
+[- archivos](8-animacionesEfectos)
 
 [9. Plugins y wirgets](9-PluginsWidgets)
+[- archivos](9-PluginsWidgets)
 
 
