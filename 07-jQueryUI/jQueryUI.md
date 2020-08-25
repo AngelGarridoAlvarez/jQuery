@@ -235,7 +235,7 @@ Creo un div y un botón  para cada efecto y una clase para diferenciar los color
      });
 ```
 
-## 8. Widget
+## 8. Widgets
 
 ### 8.1 Tooltip
 * Es una especie de pop up que aparece cuando pasas por encima algún elemento.
