@@ -26,16 +26,10 @@ Todo el contenido ha sido modificado para facilitar mi comprensión de la materi
 [6. AJAX](06-peticionesAjax/ajax.md)
 [- archivos](06-peticionesAjax)
 
-[7. jQuery UI](07-jQueryUI)
+[7. jQuery UI](07-jQueryUI/jQueryUI.md)
 [- archivos](07-jQueryUI)
-
-[8. Interacciones](08-Interacciones)
-[- archivos](08-Interacciones)
-
-[9. Animaciones](09-animacionesEfectos)
-[- archivos](09-animacionesEfectos)
-
-[10. Plugins y wirgets](10-PluginsWidgets)
-[- archivos](10-PluginsWidgets)
+* Interacciones
+* Animaciones
+* Widgets - popup - calendario - pestañas
 
 

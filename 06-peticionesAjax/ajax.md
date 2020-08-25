@@ -92,7 +92,7 @@ $(document).ready(function () {
 ```jsx
     $('form').submit(() => {
         let usuario2 = {
-            name: $('input[name="name"]').val(),
+            name: $('input[name="name"]').val(),//val me recoger el valor del campo input del formulario que indico
             web: $('input[name="web"]').val(),
         };
         console.log(usuario2)
@@ -110,7 +110,7 @@ $(document).ready(function () {
         $.ajax({
             type: 'POST',
             dataType: 'json',
-            url: $(this).attr('action'),
+            url: $(this).attr('action'),//con attr estamos pasando el atributo action
             data: usuario2,
 
             beforeSend: () => console.log('enviando usuario'),
