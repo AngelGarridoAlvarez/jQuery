@@ -75,7 +75,7 @@ Primero cargamos los archivos css de jQueryUI (jquery-ui.min.css, jquery-ui.stru
 ```jsx
     $('.lista-seleccionable').selectable()
 ```
-## 3. Seleccionar elementos con .selectable()
+## 4. Seleccionar elementos con .selectable()
 
 * Incorporamos una lista al archivo html con sus estilos.
 * También incorporamos clases especificas de jQueriUI y le damos estilo (.ui-selecting, .ui-selected)
@@ -126,7 +126,7 @@ $(document).ready(()=>{
 })
 ```
 
-## 4. .sortable(): listar y ordenar elementos
+## 5. .sortable(): listar y ordenar elementos
 
 Añado una nueva lista
 ```html
@@ -147,7 +147,7 @@ Ordeno y puedo recoger esos datos con el método update
     })
 ```
 
-## 5. .dropable(): soltar y arrastrar
+## 6. .dropable(): soltar y arrastrar
 
 Creo dos nuevos divs: area y elemento movido
 ```html
@@ -165,7 +165,7 @@ Creo dos nuevos divs: area y elemento movido
         }
     })
 ```
-## 6. Efectos
+## 7. Efectos
 
 Creo un div y un botón  para cada efecto y una clase para diferenciar los colores
 
@@ -235,9 +235,9 @@ Creo un div y un botón  para cada efecto y una clase para diferenciar los color
      });
 ```
 
-## 7. Widget
+## 8. Widget
 
-###7.1 Tooltip
+### 8.1 Tooltip
 * Es una especie de pop up que aparece cuando pasas por encima algún elemento.
 
 Creo enlaces y con .tooltip() me va a mostrar el title del enlace si me pongo encima de este
@@ -258,7 +258,7 @@ Creo enlaces y con .tooltip() me va a mostrar el title del enlace si me pongo en
     $(document).tooltip();
 ```
 
-###7.2 Popup
+### 8.2 Popup
 * Es una especie de popup que aparece cuando pasas por encima algún elemento.
 * Creo enlaces y con .tooltip() me va a mostrar el title del enlace si me pongo encima de este
 
@@ -275,7 +275,7 @@ Creo enlaces y con .tooltip() me va a mostrar el title del enlace si me pongo en
     })
 ```
 
-###7.3 Date-picker / Calendario
+### 8.3 Date-picker / Calendario
 
 ```html
 <h3> .datepicker() - Calendario</h3>
@@ -288,7 +288,7 @@ Creo enlaces y con .tooltip() me va a mostrar el title del enlace si me pongo en
     $('#calendario').datepicker();
 ```
 
-###7.4 Pestañas / .tabs()
+### 8.4 Pestañas / .tabs()
 
 ```html
 <h3> .tabs() - Pestañas</h3>
